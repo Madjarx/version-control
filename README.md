@@ -4,7 +4,7 @@
 
 Type:
 - `docs` - changes regarding documentation of any kind
-- `chore` - changes not regarding the production code
+- `chore` - changes regarding chores
 - `cleanup` - changes regarding any code cleanup (deletions)
 - `refactor` - changes regarding any code refactoring (not changing the features)
 - `feature` - changes regarding any new features to the codebase
