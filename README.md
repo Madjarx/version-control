@@ -38,4 +38,4 @@ Type:
 
 ## Lifecycle
 
-`feature_specific_branch`---> `develop` ---minor-version---> `staging` ---major-version--->  `master` 
+`feature_specific_branch` ---> `develop` ---minor-version---> `staging` ---major-version--->  `master` 
